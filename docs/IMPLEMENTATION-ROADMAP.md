@@ -12,13 +12,14 @@ This roadmap separates foundations, design decisions, and working implementation
 
 ## Phase 2: Digitize the native writing system
 - [ ] Add the original handwritten reference image to the repository without alteration.
-- [ ] Create an asset record for each character, LUO-001 through LUO-030.
+- [x] Define stable per-character asset records and a reproducible crop-extraction tool for LUO-001 through LUO-030.
+- [ ] Generate and review all 30 source crops from the canonical reference image.
 - [ ] Digitize each glyph as an editable vector master.
 - [ ] Compare every vector with the original image and obtain creator approval.
 - [ ] Build a font and rendering test page.
 - [ ] Test input, copy/paste, serialization, and round-trip behavior.
 
-**Blocking dependency:** the original handwritten reference image must be available in this working project. Text descriptions are not enough to reconstruct the exact strokes, and approximation is prohibited.
+**Current status:** the creator supplied the original reference photographs in the working session. The extraction pipeline is committed, but the photographs and generated crops are not yet stored in the repository. Text descriptions are not enough to reconstruct exact strokes, and approximation is prohibited.
 
 ## Phase 3: Freeze the text and encoding model
 - [ ] Decide how Luo source text maps to interoperable text encodings.
