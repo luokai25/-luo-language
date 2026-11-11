@@ -1,0 +1,433 @@
+{
+  "schema": "luo-glyph-assets/0.1",
+  "status": "provisional-source-crops",
+  "source_file": "IMG_20261111_102642.jpg",
+  "source_dimensions": [
+    4624,
+    3472
+  ],
+  "reading_order": "three rows, left to right",
+  "approval": "not yet creator-approved as isolated crops or vector masters",
+  "glyphs": [
+    {
+      "id": "LUO-001",
+      "row": 1,
+      "column": 1,
+      "crop_file": "source-crops/LUO-001.jpg",
+      "source_bounds_xyxy": [
+        290,
+        340,
+        670,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-002",
+      "row": 1,
+      "column": 2,
+      "crop_file": "source-crops/LUO-002.jpg",
+      "source_bounds_xyxy": [
+        690,
+        340,
+        1070,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-003",
+      "row": 1,
+      "column": 3,
+      "crop_file": "source-crops/LUO-003.jpg",
+      "source_bounds_xyxy": [
+        1090,
+        340,
+        1470,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-004",
+      "row": 1,
+      "column": 4,
+      "crop_file": "source-crops/LUO-004.jpg",
+      "source_bounds_xyxy": [
+        1490,
+        340,
+        1870,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-005",
+      "row": 1,
+      "column": 5,
+      "crop_file": "source-crops/LUO-005.jpg",
+      "source_bounds_xyxy": [
+        1890,
+        340,
+        2270,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-006",
+      "row": 1,
+      "column": 6,
+      "crop_file": "source-crops/LUO-006.jpg",
+      "source_bounds_xyxy": [
+        2290,
+        340,
+        2670,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-007",
+      "row": 1,
+      "column": 7,
+      "crop_file": "source-crops/LUO-007.jpg",
+      "source_bounds_xyxy": [
+        2690,
+        340,
+        3070,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-008",
+      "row": 1,
+      "column": 8,
+      "crop_file": "source-crops/LUO-008.jpg",
+      "source_bounds_xyxy": [
+        3090,
+        340,
+        3470,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-009",
+      "row": 1,
+      "column": 9,
+      "crop_file": "source-crops/LUO-009.jpg",
+      "source_bounds_xyxy": [
+        3490,
+        340,
+        3870,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-010",
+      "row": 1,
+      "column": 10,
+      "crop_file": "source-crops/LUO-010.jpg",
+      "source_bounds_xyxy": [
+        3890,
+        340,
+        4270,
+        700
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-011",
+      "row": 2,
+      "column": 1,
+      "crop_file": "source-crops/LUO-011.jpg",
+      "source_bounds_xyxy": [
+        290,
+        735,
+        670,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-012",
+      "row": 2,
+      "column": 2,
+      "crop_file": "source-crops/LUO-012.jpg",
+      "source_bounds_xyxy": [
+        690,
+        735,
+        1070,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-013",
+      "row": 2,
+      "column": 3,
+      "crop_file": "source-crops/LUO-013.jpg",
+      "source_bounds_xyxy": [
+        1090,
+        735,
+        1470,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-014",
+      "row": 2,
+      "column": 4,
+      "crop_file": "source-crops/LUO-014.jpg",
+      "source_bounds_xyxy": [
+        1490,
+        735,
+        1870,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-015",
+      "row": 2,
+      "column": 5,
+      "crop_file": "source-crops/LUO-015.jpg",
+      "source_bounds_xyxy": [
+        1890,
+        735,
+        2270,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-016",
+      "row": 2,
+      "column": 6,
+      "crop_file": "source-crops/LUO-016.jpg",
+      "source_bounds_xyxy": [
+        2290,
+        735,
+        2670,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-017",
+      "row": 2,
+      "column": 7,
+      "crop_file": "source-crops/LUO-017.jpg",
+      "source_bounds_xyxy": [
+        2690,
+        735,
+        3070,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-018",
+      "row": 2,
+      "column": 8,
+      "crop_file": "source-crops/LUO-018.jpg",
+      "source_bounds_xyxy": [
+        3090,
+        735,
+        3470,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-019",
+      "row": 2,
+      "column": 9,
+      "crop_file": "source-crops/LUO-019.jpg",
+      "source_bounds_xyxy": [
+        3490,
+        735,
+        3870,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-020",
+      "row": 2,
+      "column": 10,
+      "crop_file": "source-crops/LUO-020.jpg",
+      "source_bounds_xyxy": [
+        3890,
+        735,
+        4270,
+        1105
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-021",
+      "row": 3,
+      "column": 1,
+      "crop_file": "source-crops/LUO-021.jpg",
+      "source_bounds_xyxy": [
+        50,
+        1150,
+        750,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-022",
+      "row": 3,
+      "column": 2,
+      "crop_file": "source-crops/LUO-022.jpg",
+      "source_bounds_xyxy": [
+        800,
+        1150,
+        1160,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-023",
+      "row": 3,
+      "column": 3,
+      "crop_file": "source-crops/LUO-023.jpg",
+      "source_bounds_xyxy": [
+        1200,
+        1150,
+        1560,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-024",
+      "row": 3,
+      "column": 4,
+      "crop_file": "source-crops/LUO-024.jpg",
+      "source_bounds_xyxy": [
+        1650,
+        1150,
+        2010,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-025",
+      "row": 3,
+      "column": 5,
+      "crop_file": "source-crops/LUO-025.jpg",
+      "source_bounds_xyxy": [
+        1930,
+        1150,
+        2290,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-026",
+      "row": 3,
+      "column": 6,
+      "crop_file": "source-crops/LUO-026.jpg",
+      "source_bounds_xyxy": [
+        2335,
+        1150,
+        2665,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-027",
+      "row": 3,
+      "column": 7,
+      "crop_file": "source-crops/LUO-027.jpg",
+      "source_bounds_xyxy": [
+        2735,
+        1150,
+        3065,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-028",
+      "row": 3,
+      "column": 8,
+      "crop_file": "source-crops/LUO-028.jpg",
+      "source_bounds_xyxy": [
+        3085,
+        1150,
+        3435,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-029",
+      "row": 3,
+      "column": 9,
+      "crop_file": "source-crops/LUO-029.jpg",
+      "source_bounds_xyxy": [
+        3500,
+        1150,
+        3860,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    },
+    {
+      "id": "LUO-030",
+      "row": 3,
+      "column": 10,
+      "crop_file": "source-crops/LUO-030.jpg",
+      "source_bounds_xyxy": [
+        4030,
+        1150,
+        4370,
+        1650
+      ],
+      "vector_master": null,
+      "creator_approved": false
+    }
+  ]
+}
